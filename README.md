@@ -48,6 +48,9 @@ Echo utilizes a distributed **Peer-to-Host** model where one device acts as the 
 ## UML diagram 
 ![uml_diagram](uml_diagram.png)
 
+## UI mockup
+
+![design](design.png)
 
 
 ### Key Components
